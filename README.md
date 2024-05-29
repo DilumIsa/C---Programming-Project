@@ -1,3 +1,27 @@
+\documentclass{article}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\definecolor{mybackground}{HTML}{0000FF}
+
+\begin{document}
+\pagecolor{mybackground}
+
+\begin{flushleft}
+    \href{https://www.w3schools.com/c/}{\includegraphics[width=40pt, height=40pt]{c-original}}
+\end{flushleft}
+
+\begin{flushright}
+    Connect with me:
+    \href{https://instagram.com/dil_um_a}{\includegraphics[height=30pt, width=40pt]{instagram}}
+\end{flushright}
+
+\end{document}
+
+
+
+
+
 # C Programming Project
 ### This is one of my 3rd-year undergraduate projects developed using the C programming language.
 
