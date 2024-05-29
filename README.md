@@ -1,2 +1,2 @@
 # C-Programming-Project
-This is where my one of 3rd yr undergraduate project using C programming language. 
+"This is one of my 3rd-year undergraduate projects developed using the C programming language."
