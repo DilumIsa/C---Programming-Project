@@ -1,8 +1,5 @@
 # C-Programming-Project
-This is one of my 3rd-year undergraduate projects developed using the C programming language.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/c/" target="_blank" rel="nore"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
+This is one of my 3rd-year undergraduate projects developed using the C programming language. <p align="left"> <a href="https://www.w3schools.com/c/" target="_blank" rel="nore"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
