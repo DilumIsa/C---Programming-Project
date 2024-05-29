@@ -1,5 +1,7 @@
-#C Programming Project
+# C Programming Project
+
 <body style="background-color: blue;"></body>
+
 p align="left"> <a href="https://www.w3schools.com/c/" target="_blank" rel="nore"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
 
 <h3 align="right">Connect with me:</h3>
